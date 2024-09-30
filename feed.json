@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "冒泡的网站",
+    "description": "",
+    "home_page_url": "https://maopao.us.kg",
+    "feed_url": "https://maopao.us.kg/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "冒泡"
+    },
+    "items": [
+        {
+            "id": "https://maopao.us.kg/1-2.html",
+            "url": "https://maopao.us.kg/1-2.html",
+            "title": "1",
+            "summary": "1",
+            "content_html": "<p>1</p>",
+            "author": {
+                "name": "冒泡"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-09-30T20:34:56+08:00",
+            "date_modified": "2024-09-30T20:34:56+08:00"
+        }
+    ]
+}

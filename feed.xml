@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>冒泡的网站</title>
+    <link href="https://maopao.us.kg/feed.xml" rel="self" />
+    <link href="https://maopao.us.kg" />
+    <updated>2024-09-30T20:34:56+08:00</updated>
+    <author>
+        <name>冒泡</name>
+    </author>
+    <id>https://maopao.us.kg</id>
+
+    <entry>
+        <title>1</title>
+        <author>
+            <name>冒泡</name>
+        </author>
+        <link href="https://maopao.us.kg/1-2.html"/>
+        <id>https://maopao.us.kg/1-2.html</id>
+
+        <updated>2024-09-30T20:34:56+08:00</updated>
+            <summary>
+                <![CDATA[
+                    1
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>1</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
